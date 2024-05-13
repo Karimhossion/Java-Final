@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Lab_3",
+            "request": "launch",
+            "mainClass": "Lab_1.Lab_3",
+            "projectName": "1.Java_Lab.java_f3627d11"
+        },
+        {
+            "type": "java",
+            "name": "Lab_2",
+            "request": "launch",
+            "mainClass": "Lab_1.Lab_2",
+            "projectName": "1.Java_Lab.java_f3627d11"
+        },
+        {
+            "type": "java",
+            "name": "Lab_1",
+            "request": "launch",
+            "mainClass": "Lab_1.Lab_1",
+            "projectName": "1.Java_Lab.java_f3627d11"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "1.Java_Lab.java_f3627d11"
+        },
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Lab_10",
+            "request": "launch",
+            "mainClass": "Lab_1.Lab_10",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "type": "java",
+            "name": "Lab_9",
+            "request": "launch",
+            "mainClass": "Lab_1.Lab_9",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "type": "java",
+            "name": "Lab_8",
+            "request": "launch",
+            "mainClass": "Lab_1.Lab_8",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "type": "java",
+            "name": "Lab_7",
+            "request": "launch",
+            "mainClass": "Lab_1.Lab_7",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "type": "java",
+            "name": "Lab_6",
+            "request": "launch",
+            "mainClass": "Lab_1.Lab_6",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "type": "java",
+            "name": "Lab_5",
+            "request": "launch",
+            "mainClass": "Lab_1.Lab_5",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "type": "java",
+            "name": "Lab_4",
+            "request": "launch",
+            "mainClass": "Lab_1.Lab_4",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "type": "java",
+            "name": "Lab_3",
+            "request": "launch",
+            "mainClass": "Lab_1.Lab_3",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
