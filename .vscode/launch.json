@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Program_1",
+            "request": "launch",
+            "mainClass": "Swing.Program_1",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "type": "java",
             "name": "Lab_10",
             "request": "launch",
             "mainClass": "Lab_1.Lab_10",
